@@ -1,3 +1,0 @@
-# Git course
-
-my lesson
